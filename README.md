@@ -34,9 +34,9 @@ I also teach ethical hacking and organize **MOCS**, a regional OT cybersecurity 
 
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[OTSniffer](https://github.com/cmalkan/OTSniffer)** | OT cyber-risk simulation: asset views, attack paths, blast-radius analysis and explainable risk scoring. | JavaScript · TypeScript · Python · Netlify |
-| **[i4Things](https://github.com/cmalkan/i4Things)** | Prototype for finding misplaced items with TensorFlow, with camera validation tooling and a CycloneDX SBOM. | Python · TensorFlow · Jupyter |
-| **[GoldenEagleConference](https://github.com/cmalkan/GoldenEagleConference)** | Website for the Golden Eagle Conference. | HTML · CSS · JavaScript |
+| **OTSniffer** | OT cyber-risk simulation: asset views, attack paths, blast-radius analysis and explainable risk scoring. | JavaScript · TypeScript · Python · Netlify |
+| **i4Things** | Prototype for finding misplaced items with TensorFlow, with camera validation tooling and a CycloneDX SBOM. | Python · TensorFlow · Jupyter |
+| **GoldenEagleConference** | Website for the Golden Eagle Conference. | HTML · CSS · JavaScript |
 
 ## Focus areas
 
