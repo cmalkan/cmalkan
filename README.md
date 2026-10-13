@@ -2,11 +2,12 @@
 
 # Chirag Malkan
 
-### Industrial cybersecurity · Software development · Applied AI
+**OT/ICS Cybersecurity · Secure Product Development · Applied AI**
 
-Building practical tools that turn technical data into clear, actionable insights.
+I help industrial product teams build security in and show the evidence for it.
 
-[Website](https://www.malkansolutions.com) · [LinkedIn](https://www.linkedin.com/in/chiragmalkan) · [GitHub](https://github.com/cmalkan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chiragmalkan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiragmalkan)
+[![Website](https://img.shields.io/badge/Web-malkansolutions.com-1a1a2e?style=flat&logo=googlechrome&logoColor=white)](https://www.malkansolutions.com)
 
 </div>
 
@@ -14,25 +15,29 @@ Building practical tools that turn technical data into clear, actionable insight
 
 ## About
 
-I'm Chirag Malkan, building software at **[Malkan Solutions](https://www.malkansolutions.com)**. My public projects explore operational technology (OT) cybersecurity, risk visualization, and machine learning for everyday problems.
+I run **[Malkan Solutions](https://www.malkansolutions.com)**, an OT/ICS cybersecurity consultancy. I work with manufacturers of industrial and connected products on:
 
-I focus on making complex systems easier to understand through useful tools, clear interfaces, and evidence that supports decisions.
+- **IEC 62443** secure development lifecycle (4-1) and component security (4-2)
+- **EU Cyber Resilience Act** readiness: processes, technical documentation and vulnerability reporting
+- **OT risk assessment**, asset visibility and network segmentation
+
+I also teach ethical hacking and organize **MOCS**, a regional OT cybersecurity conference.
 
 ## Selected projects
 
-| Project | What it explores | Technologies |
+| Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[OTSniffer](https://github.com/cmalkan/OTSniffer)** | OT security analysis with asset views, attack-path exploration, blast-radius simulation, and an evidence assessment pipeline. | JavaScript, TypeScript, Python, Netlify, Docker |
-| **[i4Things](https://github.com/cmalkan/i4Things)** | Experiments in finding misplaced items with TensorFlow, alongside camera validation and prototyping tools. | Python, Jupyter, TensorFlow |
-| **[GoldenEagleConference](https://github.com/cmalkan/GoldenEagleConference)** | A web project for the Golden Eagle Conference. | HTML |
+| **[OTSniffer](https://github.com/cmalkan/OTSniffer)** | OT cyber-risk simulation: asset views, attack paths, blast-radius analysis and explainable risk scoring. | JavaScript · TypeScript · Python · Netlify |
+| **[i4Things](https://github.com/cmalkan/i4Things)** | Prototype for finding misplaced items with TensorFlow, with camera validation tooling and a CycloneDX SBOM. | Python · TensorFlow · Jupyter |
+| **[GoldenEagleConference](https://github.com/cmalkan/GoldenEagleConference)** | Website for the Golden Eagle Conference. | HTML · CSS · JavaScript |
 
-## Areas of interest
+## Focus areas
 
-- **Industrial cybersecurity:** asset visibility, exposure analysis, and security evidence.
-- **Risk communication:** network graphs, scenario comparisons, and understandable dashboards.
-- **Applied AI:** computer vision experiments and practical prototypes.
-- **Software development:** web interfaces, Python tooling, and containerized workflows.
+- **Industrial cybersecurity:** IEC 62443, CRA compliance, asset visibility and exposure analysis
+- **Security evidence:** SBOMs, secure development records and audit-ready documentation
+- **Risk communication:** network graphs, scenario comparisons and clear dashboards
+- **Applied AI:** computer vision and practical prototypes
 
 ## Connect
 
-For professional inquiries and collaboration, connect with me on **[LinkedIn](https://www.linkedin.com/in/chiragmalkan)** or visit **[Malkan Solutions](https://www.malkansolutions.com)**.
+For consulting and collaboration, reach me on **[LinkedIn](https://www.linkedin.com/in/chiragmalkan)** or through **[Malkan Solutions](https://www.malkansolutions.com)**.
