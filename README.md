@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/robots.jpg" alt="Industrial robots on a production line" width="100%">
+
 # Chirag Malkan
 
 **OT/ICS Cybersecurity · Secure Product Development · Applied AI**
@@ -23,6 +25,11 @@ I run **[Malkan Solutions](https://www.malkansolutions.com)**, an OT/ICS cyberse
 
 I also teach ethical hacking and organize **MOCS**, a regional OT cybersecurity conference.
 
+## Credentials
+
+- **MIT xPRO:** Technology and Innovation Acceleration Program, certificate (2022)
+- **InfraGard:** Member, Wisconsin Members Alliance
+
 ## Selected projects
 
 | Project | What it does | Stack |
@@ -41,3 +48,7 @@ I also teach ethical hacking and organize **MOCS**, a regional OT cybersecurity 
 ## Connect
 
 For consulting and collaboration, reach me on **[LinkedIn](https://www.linkedin.com/in/chiragmalkan)** or through **[Malkan Solutions](https://www.malkansolutions.com)**.
+
+---
+
+<sub>Header photo: <a href="https://commons.wikimedia.org/wiki/File:KUKA_Industrial_Robots_IR.jpg">KUKA Industrial Robots</a> by Mixabest, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, via Wikimedia Commons.</sub>
